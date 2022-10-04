@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="AppTheme.Title" parent="TextAppearance.AppCompat.Title">
+        <dimen name="textSize">20sp</dimen>
+    </style>
+
+    <style name="AppTheme.LongText" parent="TextAppearance.AppCompat.Body1">
+        <dimen name="android:textSize">16sp</dimen>
+        <dimen name="android:lineHeight">24dp</dimen>
+    </style>
+
+    <style name="AppTheme.Button" parent="TextAppearance.AppCompat.Button">
+        <dimen name="android:paddingStart">24dp</dimen>
+        <dimen name="android:paddingEnd">24dp</dimen>
+    </style>
+
+
+</resources>
