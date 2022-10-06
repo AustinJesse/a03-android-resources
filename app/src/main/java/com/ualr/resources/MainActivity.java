@@ -17,7 +17,7 @@ import android.widget.TextView;
 
 public class MainActivity extends AppCompatActivity {
     TextView countryDescription;
-    Button clk;
+    private Button learnBtn;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -26,6 +26,7 @@ public class MainActivity extends AppCompatActivity {
 
         countryDescription = (TextView) findViewById(R.id.country_description_text);
         countryDescription.setText(R.string.countryDescription);
+
 
     }
 
