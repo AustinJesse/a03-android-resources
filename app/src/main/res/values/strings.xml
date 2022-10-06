@@ -3,4 +3,5 @@
     <string name="lesson_learnt_label">lesson learnt</string>
     <string name="congrats_text">Congratulations. Now, enjoy your free time.</string>
     <string name="countryTitle">Country Title</string>
+    <string name="countryDescription">Country Description</string>
 </resources>
