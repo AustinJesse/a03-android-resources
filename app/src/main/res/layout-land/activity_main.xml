@@ -24,6 +24,7 @@
             android:layout_height="wrap_content"
             android:onClick="onLessonLearntClicked"
             android:text="@string/lesson_learnt_label"
+            android:backgroundTint="@color/button_text"
             app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/country_description_text" />
