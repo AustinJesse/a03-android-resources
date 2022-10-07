@@ -27,10 +27,14 @@ public class MainActivity extends AppCompatActivity {
         countryDescription = (TextView) findViewById(R.id.country_description_text);
         countryDescription.setText(R.string.countryDescription);
 
+        learnBtn = findViewById(R.id.lesson_learnt_button);
 
     }
 
+    public void onLessonLearntClicked(View view) {
 
+
+    }
 
 
 }
